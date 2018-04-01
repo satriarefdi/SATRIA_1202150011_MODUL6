@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983572250651",
+    "firebase_url": "https://satriarefdiardiguna1202150011s.firebaseio.com",
+    "project_id": "satriarefdiardiguna1202150011s",
+    "storage_bucket": "satriarefdiardiguna1202150011s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983572250651:android:6d4d11c1b8ee4ad6",
+        "android_client_info": {
+          "package_name": "com.example.root.satriarefdiardiguna_1202150011_si3903"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983572250651-26284tebtc541pogs9heb0qlda2d7vh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.satriarefdiardiguna_1202150011_si3903",
+            "certificate_hash": "940f6cf935e838746e36e70e746558b09fd864d4"
+          }
+        },
+        {
+          "client_id": "983572250651-7buu5ap6qbiqo6h4n98c3dvos9evqdn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQRdzsK2O5JLIVsLmd8FoTGQjADYG8AQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983572250651-7buu5ap6qbiqo6h4n98c3dvos9evqdn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
